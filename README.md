@@ -15,7 +15,7 @@ No entanto, minha paixão pela área de TI vai além disso, e hoje tenho como ob
 
 
 ## Projetos:
-Veja os tutoriais publicados no Medium e Linkedin:
+Veja os tutoriais publicados no Github e Linkedin:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
